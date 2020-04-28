@@ -7,5 +7,6 @@
 Hello! Welcome to my first project.\
 This is my first HTML web page project.
 
+[HERE](https://min-uuu.github.io/first_minuuu_page/first_minuuu_page) is the page.
 
 I'm going to make this page as I learned about Programing :)
