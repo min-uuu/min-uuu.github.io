@@ -27,3 +27,7 @@ This is my first HTML web page project.
 
 I'm going to make this page as I learned about Programing :)\
 Thank you for visiting!
+
+
+아니 왜 커밋이 안 되는거야\
+짜증난다.
