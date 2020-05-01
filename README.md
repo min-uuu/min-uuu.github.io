@@ -19,10 +19,10 @@
 잘 부탁드려요!
 
 
-특히 <strong>박정한(Rycont)</strong>님께 정말 큰 감사의 인사를 드리고 싶습니다.\
+특히 <strong>정한(Ryont)</strong>님께 정말 큰 감사의 인사를 드리고 싶습니다.\
 정한님이 없으셨다면 지금 저는 아직도 html에서 헤엄치고 있을지도 모릅니다.\
 정말 감사드려요 한님 !\
-박정한(Rycont) 깃헙 [링크](https://github.com/rycont)
+정한(RyCont) 깃헙 [링크](https://github.com/rycont)
 
 # 
 
@@ -35,11 +35,11 @@ I'm going to make this page as I learned about Programing :)\
 Thank you for visiting!
 
 
-Special thank you to <strong>Rycont(박정한)</strong>.\
+Special thank you to <strong>RyCont(정한)</strong>.\
 I am very lucky man since I could meet you.\
 If you are not here, I probbly can't make anything.\
 Very thank you again Rycont!\
-Rycont(박정한)'s github [LINK](https://github.com/rycont)
+RyCont(정한)'s github [LINK](https://github.com/rycont)
 
 
 # 버전 프리뷰
