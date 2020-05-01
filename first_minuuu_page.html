@@ -21,14 +21,29 @@
     }
     */
     h1 {
-      text-align: initial;
+      text-align: left;
       font-size: 70px;
       font-family: 'Nanum Myeongjo', sans-serif;
+      /* 애니메이션 코드*/
+      position: absolute;
+      animation-name: move1, fadeIn1;
+      animation-duration: 1s;
+      animation-iteration-count: 1;
+      animation-fill-mode: both;
+
     }
 
     h2 {
       font-size: 32px;
       font-family: 'Nanum Myeongjo', sans-serif;
+      /* 애니메이션 코드 */
+      animation-delay: 1s;
+      position: absolute;
+      animation-name: move2, fadeIn2;
+      animation-duration: 1.2s;
+      animation-iteration-count: 1;
+      animation-fill-mode: both;
+
     }
 
     h4 {
@@ -74,6 +89,54 @@
     a {
       color: black;
       text-decoration: underline;
+    }
+
+    /*애니메이션 코드*/
+
+    @keyframes move1 {
+      from {
+        margin-left: -10%;
+        margin-top: 0%;
+      }
+
+      to {
+        margin-left: 0%;
+        margin-top: 0%;
+      }
+
+    }
+
+    @keyframes fadeIn1 {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+
+    @keyframes move2 {
+      from {
+        margin-left: -10%;
+        margin-top: 12%;
+      }
+
+      to {
+        margin-left: 0%;
+        margin-top: 12%;
+      }
+
+    }
+
+    @keyframes fadeIn2 {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
     }
   </style>
 </head>
