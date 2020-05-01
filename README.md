@@ -27,3 +27,14 @@ This is my first HTML web page project.
 
 I'm going to make this page as I learned about Programing :)\
 Thank you for visiting!
+
+
+#
+
+
+버전 프리뷰
+
+
+v1.x.x
+pure HTML
+<image width="400px" src="https://imgur.com/ZrFcIPA.png"/>
