@@ -27,3 +27,28 @@ This is my first HTML web page project.
 
 I'm going to make this page as I learned about Programing :)\
 Thank you for visiting!
+
+
+
+#버전 프리뷰
+
+
+<p align="center">
+<image width="800px" src="https://imgur.com/ZrFcIPA.png"/>
+</p>
+
+v1.x.x\
+pure HTML\
+오직 HTML로만 작성되어 있다.
+
+<p align="center">
+<image width="800px" src="https://imgur.com/ergrSSe.png"/>
+</p>
+
+v2.x.x\
+HTML + CSS\
+HTML과 CSS를 이용해서 작성했다.
+
+
+v2.2.x
+CSS 애니메이션을 추가하였다.
