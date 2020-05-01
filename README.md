@@ -53,5 +53,6 @@ HTML과 CSS를 이용해서 작성했다.
 
 
 v2.2.x\
-CSS 애니메이션을 추가하였다.
+CSS 애니메이션을 추가하였다.\
+아카이브 [링크](https://archive.is/ZeH9s)
 
