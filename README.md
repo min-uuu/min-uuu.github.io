@@ -12,7 +12,7 @@
 저의 첫번째 프로젝트입니다.
 
 
-페이지 [링크](https://min-uuu.github.io)
+페이지 [링크](minyou.us)
 
 
 아직은 많이 부족하지만 계속 공부를 하면서 이 페이지를 멋있게 만들어보고자 합니다.\
@@ -29,7 +29,7 @@
 Hello! Welcome to my first project.\
 This is my first HTML web page project.
 
-[HERE](https://min-uuu.github.io) is the page.
+[HERE](minyou.us) is the page.
 
 I'm going to make this page as I learned about Programing :)\
 Thank you for visiting!
@@ -50,20 +50,29 @@ Rycont(박정한)'s github [LINK](https://github.com/rycont)
 <image width="800px" src="https://imgur.com/ZrFcIPA.png"/>
 </p>
 
+
+4월 28일
 v1.x.x\
 pure HTML\
 오직 HTML로만 작성되어 있다.\
 가장 첫번째 버전.
 
+
+4월 29일\
+v1.2.x\
+맥북의 vscode와 git을 연결하여 편집하였다
 <p align="center">
 <image width="800px" src="https://imgur.com/ergrSSe.png"/>
 </p>
 
+
+5월 1일
 v2.x.x\
 HTML + CSS\
 HTML과 CSS를 이용해서 작성했다.
 
 
+5월 1일
 v2.2.x\
 CSS 애니메이션을 추가하였다.\
 아카이브 [링크](https://archive.is/ZeH9s)
