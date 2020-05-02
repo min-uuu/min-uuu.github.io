@@ -19,7 +19,7 @@
 잘 부탁드려요!
 
 
-특히 <strong>정한(Ryont)</strong>님께 정말 큰 감사의 인사를 드리고 싶습니다.\
+특히 <strong>정한(RyCont)</strong>님께 정말 큰 감사의 인사를 드리고 싶습니다.\
 정한님이 없으셨다면 지금 저는 아직도 html에서 헤엄치고 있을지도 모릅니다.\
 정말 감사드려요 한님 !\
 정한(RyCont) 깃헙 [링크](https://github.com/rycont)
