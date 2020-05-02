@@ -51,7 +51,7 @@ RyCont(정한)'s github [LINK](https://github.com/rycont)
 </p>
 
 
-4월 28일
+4월 28일\
 v1.x.x\
 pure HTML\
 오직 HTML로만 작성되어 있다.\
@@ -66,14 +66,19 @@ v1.2.x\
 </p>
 
 
-5월 1일
+5월 1일\
 v2.x.x\
 HTML + CSS\
 HTML과 CSS를 이용해서 작성했다.
 
 
-5월 1일
+5월 1일\
 v2.2.x\
 CSS 애니메이션을 추가하였다.\
 아카이브 [링크](https://archive.is/ZeH9s)
 
+
+5월 2일\
+v2.3.x\
+DNS 서비스 연결로 도메인 변경\
+인생 첫 왭페이지이자 첫 도메인 구매.
