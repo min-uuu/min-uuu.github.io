@@ -12,7 +12,7 @@
 저의 첫번째 프로젝트입니다.
 
 
-페이지 [링크](minyou.us)
+페이지 [링크](https://minyou.us)
 
 
 아직은 많이 부족하지만 계속 공부를 하면서 이 페이지를 멋있게 만들어보고자 합니다.\
@@ -29,7 +29,7 @@
 Hello! Welcome to my first project.\
 This is my first HTML web page project.
 
-[HERE](minyou.us) is the page.
+[HERE](https://minyou.us) is the page.
 
 I'm going to make this page as I learned about Programing :)\
 Thank you for visiting!
