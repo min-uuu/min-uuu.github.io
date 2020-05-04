@@ -3,6 +3,7 @@
 
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- 구글 애널리틱스 연동 코드 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165376860-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -12,12 +13,18 @@
     gtag('config', 'UA-165376860-1');
   </script>
 
+  <!-- 메타데이터 설정-->
   <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!--사이트 제목 설정-->
   <title>민유. 나와 당신, 우리의 꿈을 꾸는 기획자.</title>
+
+  <!-- 웹 폰트 코드 -->
   <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Myeongjo&display=swap"
     rel="stylesheet">
+
   <style>
-    /*
+    /* 가로선 (divider) 코드
     hr {
       background: transparent;
       display: block;
@@ -31,6 +38,7 @@
     h1 {
       text-align: left;
       font-size: 70px;
+      /*폰트 설정*/
       font-family: 'Nanum Myeongjo', sans-serif;
       /* 애니메이션 코드*/
       animation-delay: 1s;
@@ -47,11 +55,17 @@
       font-family: 'Nanum Myeongjo', sans-serif;
       /* 애니메이션 코드 */
       animation-delay: 2s;
+      /*나타날 때 까지의 지연 시간*/
       position: absolute;
+      /*???*/
       animation-name: move2, fadeIn2;
+      /*적용할 애니메이션 이름*/
       animation-duration: 1.2s;
+      /*지속할 애니메이션 시간*/
       animation-iteration-count: 1;
+      /*애니메이션 반복 횟수*/
       animation-fill-mode: both;
+      /*애니메이션 종료 후의 위치*/
 
     }
 
@@ -75,14 +89,16 @@
     body {
       font-family: 'Nanum Gothic', sans-serif;
       line-height: 2.2;
+      /*자간*/
       white-space: normal;
+      /*???*/
     }
 
 
     html,
     body {
       margin: 135px;
-      margin-left: 170px;
+      margin-left: 195px;
       padding: 0;
     }
 
@@ -91,6 +107,7 @@
       padding-bottom: 900px;
     }
 
+    /*인용문 (quote) 코드*/
     blockquote {
       font-size: 20px;
       margin: 1em 0;
@@ -107,6 +124,7 @@
 
     /*애니메이션 코드*/
 
+    /*이동*/
     @keyframes move1 {
       from {
         margin-left: -10%;
@@ -120,6 +138,7 @@
 
     }
 
+    /*사라졌다가 나타남*/
     @keyframes fadeIn1 {
       from {
         opacity: 0;
@@ -133,6 +152,7 @@
     @keyframes move2 {
       from {
         margin-left: -10%;
+        /*위치 지정*/
         margin-top: 12%;
       }
 
@@ -153,6 +173,8 @@
       }
     }
 
+    /*반응형 코드*/
+    /*모바일 환경에 대한 코드*/
     @media (max-width: 1000px) {
       h1 {
         display: none;
@@ -198,6 +220,7 @@
       }
     }
 
+    /*데스크탑 환경에 대한 코드*/
     @media (min-width: 1001px) {
       h3 {
         display: none;
@@ -211,6 +234,7 @@
   <h1 style="font-family: 'Nanum Myeongjo', sans-serif;">민유</h1>
   <h2 style="font-family: 'Nanum Myeongjo', sans-serif;">사람에게서 이유를 찾다.</h2>
   <div style="padding-top: 500px; padding-bottom: 500px;"></div>
+  <!--이미지 생략-->
   <!--
   <img src="https://imgur.com/X8rRRBf.png" height="300" width="300" alt="logo">
   -->
@@ -315,7 +339,7 @@
   <div></div>
 
   <p>
-    <h4>장점</h4>
+    <h4>장점과 단점</h4>
     <li>어느 순간에도 긍정적이고 밝은 사람입니다,</li>
     <li>다양한 분야의 지식을 가지고 있습니다.</li>
     <li>사람을 좋아하고 인상이 좋습니다.</li>
@@ -323,12 +347,11 @@
     <li>꼼꼼하면서 철저하기도 하지만 부드럽습니다.</li>
     <li>목표가 정해지면 최선을 다 합니다.</li>
   </p>
-  <div style="padding-bottom: 60px;"></div>
+  <div style="padding-bottom: 5px;"></div>
   <P>
-    <h4>단점</h4>
     <li>조금은 허당인 면이 있습니다.</li>
     <li>오지랖이 넓습니다.</li>
-    <li>어느 한 분야도 깊지 않습니다.</li>
+    <li>깊은 분야가 없습니다.</li>
   </P>
 
   <div></div>
