@@ -1,4 +1,4 @@
-# first_minuuu_page
+# 민유. 사람에게서 이유를 찾다.
 <p align="center">
 <image width="400px" src="https://imgur.com/X8rRRBf.png"/>
 </p>
@@ -60,7 +60,7 @@ pure HTML\
 
 v1.2.x\
 4월 29일\
-맥북의 vscode와 git을 연결하여 편집하였다
+맥북의 vscode와 git을 연결하여 편집하였다.
 <p align="center">
 <image width="800px" src="https://imgur.com/ergrSSe.png"/>
 </p>
