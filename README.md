@@ -1,5 +1,5 @@
 # 민유. 사람에게서 이유를 찾다.
-<p align="center">
+<p>
 <image width="200px" src="https://imgur.com/ZSUDNqM.png"/>
 </p>
 
