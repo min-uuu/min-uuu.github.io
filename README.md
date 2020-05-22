@@ -3,6 +3,7 @@
 <image width="400px" src="https://imgur.com/X8rRRBf.png"/>
 </p>
 
+[![Last Commit](https://github.com/min-uuu/min-uuu.github.io/commits/master.svq)](https://github.com/min-uuu/min-uuu.github.io/commits/master)
 
 안녕하세요\
 한국디지털미디어고등학교 웹프로그래밍과 19기 민유입니다.
