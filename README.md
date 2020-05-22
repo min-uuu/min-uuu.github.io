@@ -1,6 +1,6 @@
 # 민유. 사람에게서 이유를 찾다.
 <p align="center">
-<image width="400px" src="https://imgur.com/X8rRRBf.png"/>
+<image width="200px" src="https://imgur.com/ZSUDNqM.png"/>
 </p>
 
 안녕하세요\
