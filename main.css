@@ -63,7 +63,7 @@
 
     body {
       font-family: 'Noto Sans KR', sans-serif;
-      font-size: large;
+      font-size: larger;
       line-height: 2.2;
       /*자간*/
       white-space: normal;
@@ -86,11 +86,11 @@
     /*인용문 (quote) 코드*/
     blockquote {
       font-size: 20px;
-      margin: 1em 0;
+      margin: 2em 0;
       padding-left: 1em;
       border-left: 2px solid rgb(55, 53, 47);
       font-family: 'Noto Sans KR', sans-serif;
-      font-weight: bold;
+      /* font-weight: bold; */
     }
 
     a {
