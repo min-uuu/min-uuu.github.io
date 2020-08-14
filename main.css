@@ -46,7 +46,7 @@
 
     h3 {
       font-size: 15px;
-      font-family: 'Nanum Gothic', sans-serif;
+      font-family: 'Noto Sans KR', sans-serif;
     }
 
     h4 {
@@ -62,7 +62,8 @@
     }
 
     body {
-      font-family: 'Nanum Gothic', sans-serif;
+      font-family: 'Noto Sans KR', sans-serif;
+      font-size: large;
       line-height: 2.2;
       /*자간*/
       white-space: normal;
@@ -88,14 +89,14 @@
       margin: 1em 0;
       padding-left: 1em;
       border-left: 2px solid rgb(55, 53, 47);
-      font-family: 'Nanum Gothic', sans-serif;
+      font-family: 'Noto Sans KR', sans-serif;
       font-weight: bold;
     }
 
     a {
       color: black;
       text-decoration: underline;
-      font-family: 'Nanum Gothic', sans-serif;
+      font-family: 'Noto Sans KR', sans-serif;
     }
 
 
