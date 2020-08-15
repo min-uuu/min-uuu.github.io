@@ -10,24 +10,55 @@
       border-bottom: 2px solid rgba(55, 53, 47, 0.09);
     }
     */
-    h1 {
+    /*
+     h3 {
+      font-size: 15px;
+      font-family: 'Noto Sans KR', sans-serif;
+    }
+    */
+
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .title, .sub-title, .top-text, .sub-top-text {
+      font-family: 'Nanum Myeongjo', sans-serif;
+    }
+
+    .top-text, .sub-top-text, .text, .spacer {
+      margin-left: 350px;
+    }
+
+    .text {
+      font-family: 'Noto Sans KR', sans-serif;
+    }
+
+    .spacer {
+      padding-bottom: 900px;
+    }
+
+    
+
+
+
+    .title {  
+      position: absolute; top: 250px; left: 400px;
       text-align: left;
       font-size: 70px;
-      /*폰트 설정*/
-      font-family: 'Nanum Myeongjo', sans-serif;
-      /* 애니메이션 코드*/
+      font-weight: bolder;
+      /* 애니메이션 코드 */
       animation-delay: 1s;
       position: absolute;
       animation-name: move1, fadeIn1;
       animation-duration: 1s;
       animation-iteration-count: 1;
       animation-fill-mode: both;
-
     }
 
-    h2 {
+    .sub-title {
+      position: absolute; top: 260px; left: 400px;
       font-size: 32px;
-      font-family: 'Nanum Myeongjo', sans-serif;
       /* 애니메이션 코드 */
       animation-delay: 2s;
       /*나타날 때 까지의 지연 시간*/
@@ -41,28 +72,19 @@
       /*애니메이션 반복 횟수*/
       animation-fill-mode: both;
       /*애니메이션 종료 후의 위치*/
-
     }
 
-    h3 {
-      font-size: 15px;
-      font-family: 'Noto Sans KR', sans-serif;
-    }
-
-    h4 {
+    .top-text {
       font-size: 32px;
       font-weight: bold;
-      font-family: 'Nanum Myeongjo', sans-serif;
     }
 
-    h5 {
+    .sub-top-text {
       font-size: 24px;
       font-weight: bold;
-      font-family: 'Nanum Myeongjo', sans-serif;
     }
 
-    body {
-      font-family: 'Noto Sans KR', sans-serif;
+    .text {
       font-size: larger;
       line-height: 2.2;
       /*자간*/
@@ -70,23 +92,11 @@
       /*???*/
     }
 
-
-    html,
-    body {
-      margin: 135px;
-      margin-left: 195px;
-      padding: 0;
-    }
-
-
-    div {
-      padding-bottom: 900px;
-    }
-
     /*인용문 (quote) 코드*/
     blockquote {
+      margin-left: 350px;
+      margin-top: 50px;
       font-size: 20px;
-      margin: 2em 0;
       padding-left: 1em;
       border-left: 2px solid rgb(55, 53, 47);
       font-family: 'Noto Sans KR', sans-serif;
@@ -98,8 +108,6 @@
       text-decoration: underline;
       font-family: 'Noto Sans KR', sans-serif;
     }
-
-
 
     /*애니메이션 코드*/
 
@@ -153,7 +161,7 @@
     }
 
     
-
+    
     /*반응형 코드*/
     /*모바일 환경에 대한 코드*/
     @media (max-width: 1000px) {
