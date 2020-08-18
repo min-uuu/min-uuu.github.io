@@ -26,6 +26,7 @@ a {
 
 main .content {
     padding: 2%;
+    margin-top: 100px;
     margin-right: 200px;
     margin-left: 200px;
     /* background-color: white; */
@@ -46,8 +47,8 @@ main .spacer {
 }
 
 main hr {
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
     width: 70%;
     height: 2px;
     border: none;
