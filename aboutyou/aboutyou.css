@@ -22,3 +22,11 @@ a {
 .spacer {
     height: 5000px;
 }
+
+main .content {
+    padding: 3%;
+    margin: 80px;
+    /* background-color: white; */
+    border-radius: 5px;
+    color: rgb(100, 100, 100);
+}
