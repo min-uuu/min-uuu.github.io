@@ -24,9 +24,20 @@ a {
 }
 
 main .content {
-    padding: 3%;
-    margin: 80px;
+    padding: 2%;
+    margin-right: 80px;
+    margin-left: 80px;
     /* background-color: white; */
     border-radius: 5px;
     color: rgb(100, 100, 100);
+    background-color: white;
+    line-height: 1.6;
+}
+
+main .title {
+    font-size: larger;
+}
+
+main .spacer {
+    height: 20px;
 }
