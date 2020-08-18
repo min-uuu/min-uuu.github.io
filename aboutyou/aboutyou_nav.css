@@ -10,6 +10,12 @@ nav .title {
     position: fixed;  
 }
 
+nav .content {
+    margin-top: 15vh;
+    position: fixed;
+    color: gray;
+}
+
 nav .spacer {
     height: 30px;
     /* position: fixed; */
