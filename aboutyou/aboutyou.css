@@ -1,0 +1,24 @@
+@import url("aboutyou_nav.css");
+
+body {
+    display: flex;
+    margin: 0px;
+    min-height: 100vh;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+main {
+    flex: 3;
+    background-color: #f8f8f8;
+    padding: 30px;
+    
+}
+
+a {
+      color: black;
+      text-decoration: none;
+}
+
+.spacer {
+    height: 5000px;
+}
