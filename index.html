@@ -1,50 +1,77 @@
-<!-- 
-  이 사이트는 2월 6일 현재, 개편을 앞두고 있습니다.
-  아마도 아래 코드들은 전부 사라질 거 같네요.
-  훨씬 멋진 포트폴리오 사이트를 만들어 돌아오겠습니다.
- -->
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <!-- 구글 애널리틱스 연동 코드 -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165376860-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- title -->
+    <title>사람에게서 이유를 찾다, 민유.</title>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165376860-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-    gtag('config', 'UA-165376860-1');
-  </script>
+        gtag('config', 'UA-165376860-1');
+    </script>
+    <!-- web font -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
+    <!-- css -->
+    <link rel="stylesheet" href="landing/landing.css" />
 
-  <!-- 메타데이터 설정-->
-  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!--사이트 제목 설정-->
-  <title>우리 모두의 꿈을 이루길, 바람.</title>
 
-  <!-- 웹 폰트 코드 -->
-  <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Myeongjo&display=swap"
-    rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
-
-  <!--CSS 코드-->
-  <link rel="stylesheet" href="landing/index.css" />
 </head>
 
 <body>
-
-  <div style="font-family: 'Noto Sans KR', sans-serif;">
-    이 사이트는 2월 6일 현재 개편을 앞두고 있습니다. <br>
-    훨씬 멋진 포트폴리오 사이트가 되어 다시 돌아오겠습니다. <br>
-    그럼 나중에 뵐게요.
-  </div>
-
-  <a href="https://github.com/min-uuu">깃허브 링크</a>
-
+    <div class="container">
+        <div class="content">
+            <div class="say-hello">
+                안녕하세요.
+            </div>
+            <div class="introduce-container">
+                <div class="introduce-front">
+                    자신있는
+                </div>
+                <div class="introduce-main" id="introduce-amin">
+                    ???
+                </div>
+            </div>
+            <div class="name-container">
+                <div class="name-name">
+                    민유
+                </div>
+                <div class="name-is">
+                    입니다.
+                </div>
+            </div>
+            <img class-"name-bar" src="/src/name-bar.png" alt="">
+        </div>
+        <div class="footer-container">
+            <div class="footer">
+                <div class="footer-content">
+                    사람에게서 이유를 찾다, 민유.
+                </div>
+                <div class="link">
+                    <div class="link-portfo">
+                        <a href="/portfolio/portfolio.html">포트폴리오</a>
+                    </div>
+                    <div class="link-blog">
+                        <a href="/blog/blog.html">블로그</a>
+                    </div>
+                    <div class="link-github">
+                        <a href="https://github.com/min-uuu">깃허브</a>
+                    </div>
+                    <div class="link-contact">
+                        <a href="/contact/contact.html">연락처</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="landing/landing.js"></script>
 </body>
-
 
 </html>

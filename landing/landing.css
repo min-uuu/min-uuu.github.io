@@ -1,0 +1,112 @@
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  font-family: 'NanumSquare', sans-serif !important;
+  font-weight: bold;
+}
+
+.container {
+  width: 100vw;
+  height: 90vh;
+}
+
+.content {
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 90vh;
+  font-size: 5rem;
+}
+
+.introduce-container {
+  display: flex;
+  padding-top: 3%;
+}
+
+.name-container {
+  display: flex;
+  margin-top: 7%;
+}
+
+.say-hello {
+  padding-top: 15%;
+  color: #A0A0A0;
+}
+
+.introduce-front {
+  color: #A0A0A0;
+  padding-right: 5%;
+  flex-wrap: nowrap;
+}
+
+.introduce-main {
+  color: black;
+}
+
+.name-name {
+  color: #2979ff;
+  padding-right: 2%;
+}
+
+img {
+  width: 43vh;
+  position: relative;
+  top: -5%;
+}
+
+.footer-container {
+  width: 100vw;
+  height: 10vh;
+  font-size: 1.5rem;
+}
+
+.footer {
+  margin-right: 10%;
+  margin-left: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  display: flex;
+  width: 30vw;
+  justify-content: space-between;
+}
+
+.footer-content {
+  color: #A0A0A0;
+}
+
+a {
+  color: #A0A0A0;
+  text-decoration: none;
+}
+
+.link-portfo a:hover, .link-blog a:hover, .link-github a:hover, .link-contact a:hover {
+  color: #2979ff;
+}
+
+.footer-content:hover {
+  color: #2979ff;
+  cursor: default;
+}
+
+.introduce-main {
+  animation-name: fadein;
+  animation-duration: 2.0s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+
+    60% {
+      opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
