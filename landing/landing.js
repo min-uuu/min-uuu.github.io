@@ -18,5 +18,5 @@ function print() {
     }
 }
 
-setInterval(print, 2000)
+setInterval(print, 1800)
 
