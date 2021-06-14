@@ -118,7 +118,7 @@ a {
 @media screen and (max-width: 479px) {
   .content {
     font-size: 2.2rem;
-    height: 80vh;
+    height: 75vh;
   }
 
   .footer-content {
