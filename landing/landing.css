@@ -101,6 +101,8 @@ a {
   animation-iteration-count: infinite;
 }
 
+/* 애니메이션 */
+
 @keyframes fadein {
     0% {
         opacity: 0;
@@ -114,6 +116,8 @@ a {
         opacity: 0;
     }
 }
+
+/* 모바일 반응형 */
 
 @media screen and (max-width: 479px) {
   .content {
