@@ -114,3 +114,44 @@ a {
         opacity: 0;
     }
 }
+
+@media screen and (max-width: 479px) {
+  .content {
+    font-size: 2.2rem;
+    height: 85vh;
+  }
+
+  .footer-content {
+    font-size: 1.2rem;
+    height: 5vh;
+  }
+
+  .link-portfo a, .link-blog a, .link-github a, .link-contact a{
+    font-size: 1rem;
+  }
+
+  .link-portfo, .link-blog, .link-github, .link-contact {
+    margin-bottom: 5%;
+  } 
+
+  .footer {
+    display: block;
+  }
+
+  .say-hello {
+    margin-bottom: 5%;
+  }
+
+  .link {
+    width: 70vw;
+  }
+
+  .name-container {
+    margin-top: 15%;
+  }
+
+  img {
+    margin-top: 15%;
+    width: 43vw;
+  }
+}
