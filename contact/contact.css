@@ -17,9 +17,26 @@ body {
   height: 90vh;
   font-size: 2rem;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
+
+.facebook img {
+    width: 100px;
+}
+
+.instagram img {
+    width: 100px;
+}
+
+.kakaotalk img {
+    width: 100px;
+}
+
+.email img {
+    width: 100px;
+}
+
 
 .footer-container {
   width: 100vw;
@@ -55,4 +72,51 @@ a {
 
 .footer-content a:hover {
   color: #2979ff;
+}
+
+/* 모바일 반응형 */
+
+@media screen and (max-width: 479px) {
+  .content {
+    font-size: 1rem;
+    height: 75vh;
+    /* display: block; */
+  }
+
+  .footer-content {
+    font-size: 1.2rem;
+    height: 5vh;
+  }
+
+  .link-portfo a, .link-blog a, .link-github a, .link-contact a{
+    font-size: 1rem;
+  }
+
+  .link-portfo, .link-blog, .link-github, .link-contact {
+    margin-bottom: 5%;
+  } 
+
+  .footer {
+    display: block;
+  }
+
+  .say-hello {
+    margin-bottom: 5%;
+  }
+
+  .link {
+    width: 70vw;
+  }
+
+  .content img {
+    width: 50px;
+  }
+
+  .content p {
+    display: none;
+  }
+
+  .link-contact a{
+    color: #2979ff;
+  }
 }
