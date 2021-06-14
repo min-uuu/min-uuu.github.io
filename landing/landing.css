@@ -21,6 +21,7 @@ body {
 .introduce-container {
   display: flex;
   padding-top: 3%;
+  flex-wrap: wrap;
 }
 
 .name-container {
@@ -71,6 +72,7 @@ img {
   display: flex;
   width: 30vw;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .footer-content {
