@@ -38,6 +38,7 @@ body {
   color: #A0A0A0;
   padding-right: 5%;
   flex-wrap: nowrap;
+  padding-bottom: 5%;
 }
 
 .introduce-main {
@@ -73,6 +74,7 @@ img {
   width: 30vw;
   justify-content: space-between;
   flex-wrap: wrap;
+  padding-bottom: 5%;
 }
 
 .footer-content {
