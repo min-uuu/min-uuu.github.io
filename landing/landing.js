@@ -1,6 +1,3 @@
-alert(
-    "2022년 고등학교 졸업을 앞두고 리뉴얼을 진행하고 있습니다, 조금만 기다려주세요!"
-);
 window.location.replace("https://portfolio.minyou.us");
 // const text = document.getElementById("introduce-amin")
 
